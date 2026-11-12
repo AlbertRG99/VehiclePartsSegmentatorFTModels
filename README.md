@@ -1,6 +1,6 @@
 # Car-part segmentation on VehicleSeg10K
 
-[Español](README.es.md) · Trained weights: [Hugging Face](https://huggingface.co/<hf-user>/vehicleseg10k-part-segmentation)
+[Español](README.es.md) · Trained weights: [Hugging Face](https://huggingface.co/MrBr1ghts1d3/VehiclePartsSegmentatorFTModels)
 
 Comparison of four segmentation models on **VehicleSeg10K** (13 car parts), all trained, run and scored with the same data, the same evaluation code and the same metrics.
 

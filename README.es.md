@@ -1,6 +1,6 @@
 # Segmentación de piezas de coche en VehicleSeg10K
 
-[English](README.md) · Pesos entrenados: [Hugging Face](https://huggingface.co/<hf-user>/vehicleseg10k-part-segmentation)
+[English](README.md) · Pesos entrenados: [Hugging Face](https://huggingface.co/MrBr1ghts1d3/VehiclePartsSegmentatorFTModels)
 
 Comparación de cuatro modelos de segmentación sobre **VehicleSeg10K** (13 piezas de coche). Todos se entrenan, se ejecutan y se puntúan con los mismos datos, el mismo código de evaluación y las mismas métricas.
 
