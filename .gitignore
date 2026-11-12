@@ -1,0 +1,14 @@
+# Datos, pesos, repos externos y salidas pesadas: no van al repositorio
+datos/
+pesos/
+repos/
+resultados/*
+!resultados/informe/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.log
+nohup.out
+__pycache__/
+*.pyc
